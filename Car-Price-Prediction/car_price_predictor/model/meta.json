@@ -1,0 +1,100 @@
+{
+  "companies": [
+    "Ford",
+    "Honda",
+    "Hyundai",
+    "Mahindra",
+    "Maruti",
+    "Renault",
+    "Skoda",
+    "Tata",
+    "Toyota",
+    "Volkswagen"
+  ],
+  "company_models": {
+    "Ford": [
+      "Aspire",
+      "EcoSport",
+      "Endeavour",
+      "Figo"
+    ],
+    "Honda": [
+      "Amaze",
+      "City",
+      "Civic",
+      "Jazz",
+      "WR-V"
+    ],
+    "Hyundai": [
+      "Creta",
+      "Grand i10",
+      "Santro",
+      "Venue",
+      "Verna",
+      "i20"
+    ],
+    "Mahindra": [
+      "Bolero",
+      "Scorpio",
+      "Thar",
+      "XUV300",
+      "XUV500"
+    ],
+    "Maruti": [
+      "Alto",
+      "Baleno",
+      "Dzire",
+      "Ertiga",
+      "Swift",
+      "WagonR"
+    ],
+    "Renault": [
+      "Duster",
+      "Kiger",
+      "Kwid",
+      "Triber"
+    ],
+    "Skoda": [
+      "Kushaq",
+      "Octavia",
+      "Rapid",
+      "Superb"
+    ],
+    "Tata": [
+      "Altroz",
+      "Harrier",
+      "Nexon",
+      "Safari",
+      "Tiago"
+    ],
+    "Toyota": [
+      "Etios",
+      "Fortuner",
+      "Glanza",
+      "Innova",
+      "Yaris"
+    ],
+    "Volkswagen": [
+      "Ameo",
+      "Polo",
+      "Taigun",
+      "Vento"
+    ]
+  },
+  "fuel_types": [
+    "CNG",
+    "Diesel",
+    "Petrol"
+  ],
+  "owners": [
+    "First Owner",
+    "Second Owner",
+    "Third Owner"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "year_min": 2005,
+  "year_max": 2025
+}
