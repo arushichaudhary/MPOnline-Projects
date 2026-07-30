@@ -1,0 +1,6 @@
+{
+  "name": "CineSorbet",
+  "description": "An elegant, peach-sorbet styled movie recommendation system using content and collaborative filtering, integrated with a server-side Gemini AI film matchmaker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
