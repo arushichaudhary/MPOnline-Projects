@@ -87,13 +87,6 @@ After running `train.py`, check `outputs/training_curves.png` for the
 loss/accuracy curves and `outputs/sample_predictions.png` for example
 predictions (green title = correct, red = incorrect).
 
-## Possible Improvements
-
-- Add data augmentation (random crop, horizontal flip)
-- Add batch normalization after each conv layer
-- Use a learning rate scheduler
-- Try a deeper architecture (ResNet-style blocks)
-
 ## License
 
 MIT — free to use and modify.
