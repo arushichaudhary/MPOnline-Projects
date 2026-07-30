@@ -1,0 +1,16 @@
+# dataset (downloaded automatically by torchvision)
+data/
+
+# training outputs (model weights, plots, metrics)
+outputs/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# os / editor
+.DS_Store
+.vscode/
+.idea/
