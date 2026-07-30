@@ -1,0 +1,27 @@
+ABC University Admission Guide
+
+Admission opens on July 15.
+The admission fee is Rs. 500.
+Hostel fee is Rs. 20,000 per semester.
+Library timing is 9 AM to 8 PM.
+Students must carry their ID card.
+
+The academic year is divided into two semesters.
+Classes for the first semester begin in August.
+Classes for the second semester begin in January.
+
+Hostel rooms are allotted on a first come first serve basis.
+Mess fee is included in the hostel fee.
+Students living outside the campus can apply for a day scholar pass.
+
+The Computer Science department offers courses in
+Machine Learning, Data Structures, Operating Systems, and Web Development.
+
+Attendance of at least 75 percent is required to appear for the final exams.
+Students with attendance below 75 percent must apply for condonation.
+
+The examination fee is Rs. 300 per semester.
+Revaluation of answer sheets can be requested within 10 days of result declaration.
+
+The placement cell conducts training sessions every semester.
+Companies visit the campus for placements between December and March.
