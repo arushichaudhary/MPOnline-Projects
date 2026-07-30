@@ -46,13 +46,7 @@ recommend Colab with a T4/GPU runtime if you don't have a local GPU).
 | Fewer people, more images/person + augmentation | ~85–92% |
 | More people, less data/person | ~75–85% |
 
-**My actual result on this run:** `90%` *(fill in after you run it — paste your
-final `best test accuracy` printed at the end of training here)*
-
-> Note: these ranges are typical published/community benchmarks for this exact
-> setup (plain CNN, no FaceNet/VGGFace pretraining). They're a sanity-check
-> reference, not a substitute for your own run — LFW class balance, resize
-> factor, and random seed all shift the number a bit.
+**My actual result on this run:** `90%` 
 
 ## Notes / limitations
 
